@@ -1,5 +1,5 @@
 public class BracketChecker {
-    public static boolean isClosed(String input) {
+    public static boolean bracket(String input) {
         int round = 0;
         int curly = 0;
         int square = 0;
